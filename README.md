@@ -9,3 +9,6 @@ Postman Get data
 
 Browser (Firefox)
 ![Browser_Firefox](https://user-images.githubusercontent.com/46185799/171410424-6091114d-1bfc-4edc-bbd5-7b14271204fc.PNG)
+
+Swagger
+![Swagger](https://user-images.githubusercontent.com/46185799/172229913-a7b63202-3d8f-415a-80ac-7a1bff0b25da.PNG)
