@@ -17,8 +17,6 @@ using WebAPI.IServices;
 using WebAPI.Models;
 using WebAPI.Services;
 
-//https://www.youtube.com/watch?v=p0bfCl0xvDY
-
 namespace WebAPI
 {
     public class Startup
